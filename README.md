@@ -1,2 +1,2 @@
 # pratica_git_flow
-<h1>Modificaion en la rama development</h1>
+<h1>Modificaion en  development</h1>
